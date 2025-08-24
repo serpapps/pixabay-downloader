@@ -2,20 +2,17 @@
   "id": 51,
   "created_at": "2025-01-23T00:00:00Z",
   "seo_title": "Pixabay Downloader - Free Content Download Tool",
-  "seo_description": "https://serp.ly/pixabay-downloader",
+  "seo_description": null,
   "product_page_url": "https://store.serp.co/product-details/product/pixabay-downloader",
   "purchase_url": "https://serp.ly/pixabay-downloader",
   "store_product_id": null,
   "name": "Pixabay Downloader",
-  "tagline": "https://serp.ly/pixabay-downloader",
-  "featured_image": "images/pixabay-downloader.jpg",
-  "featured_image_gif": "images/pixabay-downloader.gif",
+  "tagline": "Access Pixabay's free stock photos, videos, and music in highest quality",
+  "featured_image": "https://raw.githubusercontent.com/serpapps/pixabay-downloader/assets/images/pixabay-downloader.jpg",
+  "featured_image_gif": "https://raw.githubusercontent.com/serpapps/pixabay-downloader/assets/images/pixabay-downloader.gif",
   "github_repo_url": "https://github.com/serpapps/pixabay-downloader",
   "github_repo_tags": [
-    "pixabay-downloader",
-    "downloader",
-    "automation",
-    "tools"
+    "pixabay-downloader"
   ],
   "github_gist_url": null,
   "features": [
@@ -55,13 +52,11 @@
     "Node.js",
     "Automation"
   ],
-  "serpco_product_page_link": "https://store.serp.co/product-details/product/pixabay-downloader",
-  "serpai_product_page_link": null,
+  "serpco_product_page_link": "https://serp.co/products/pixabay-downloader/reviews/",
+  "serpai_product_page_link": "https://serp.ai/products/pixabay-downloader/reviews/",
   "file_formats": null,
   "categories": [
-    "Video Downloaders",
-    "Content Tools",
-    "Automation"
+    "image hosting"
   ],
   "extraction_targets": null,
   "content_medium": null,
@@ -72,21 +67,18 @@
     "devinschumacher"
   ],
   "funding_links_liberapay": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_opencollective": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_custom": [
     "https://serpapps.github.io/pixabay-downloader",
     "https://devinschumacher.com/pixabay-downloader",
-    "https://serp.co/products/pixabay-downloader/reviews/"
+    "https://serp.co/products/pixabay-downloader/",
+    "https://github.com/sponsors/devinschumacher"
   ],
   "keywords": [
-    "pixabay",
-    "downloader",
-    "automation",
-    "tool",
-    "free"
+    "pixabay downloader"
   ]
 }
